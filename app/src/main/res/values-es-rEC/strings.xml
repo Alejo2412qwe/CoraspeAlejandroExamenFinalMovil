@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoraspeAlejandroExamenFinalMovil</string>
+    <string name="titulo">Fake Store Api</string>
+    <string name="insertar">INSERTAR DATOS</string>
+    <string name="txttitulo">Titulo</string>
+    <string name="description">Descripcion</string>
+    <string name="precio">Precio</string>
+</resources>
